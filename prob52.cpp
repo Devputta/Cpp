@@ -15,7 +15,19 @@ void f(int n){
 }
 
 int main(){
-    f(5);
+    f(10);
 
     return 0;
 }
+
+
+
+
+
+
+
+
+
+// output :
+
+// 0 1 1 2 3 5 8 13 21 34
